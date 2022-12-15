@@ -25,5 +25,6 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "terminal.integrated.cursorStyle": "line"
 }
