@@ -1,0 +1,15 @@
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension softwaredotcom.swdc-vscode
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension icrawl.discord-vscode
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension zhuangtongfa.material-theme
+code --install-extension esbenp.prettier-vscode
+code --install-extension rvest.vs-code-prettier-eslint
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension vscode-icons-team.vscode-icons
