@@ -1,0 +1,29 @@
+{
+  "workbench.colorTheme": "Default High Contrast",
+  "editor.fontSize": 19,
+  "editor.tabSize": 2,
+  "editor.fontWeight": 400,
+  "editor.suggestSelection": "first",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.codeLensFontFamily": "Fira Code, Consolas",
+  "editor.fontFamily": "Fira Code, Consolas",
+  "editor.fontLigatures": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "zenMode.fullScreen": false,
+  "prettier.prettierPath": "\\AppData\\Roaming\\npm\\node_modules\\prettier",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.maxMemoryForLargeFilesMB": 8192,
+  "workbench.iconTheme": "vscode-icons",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.startupEditor": "none"
+}
