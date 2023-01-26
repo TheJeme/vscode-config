@@ -15,3 +15,4 @@ call code --install-extension wayou.vscode-todo-highlight
 call code --install-extension vscode-icons-team.vscode-icons
 call code --install-extension ritwickdey.LiveServer
 call code --install-extension brittanychiang.halcyon-vscode
+call code --install-extension pawelgrzybek.gatito-theme
